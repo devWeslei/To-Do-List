@@ -1,17 +1,13 @@
-# lista_tarefas
+# To-Do-List
+## Running
 
-A new Flutter project.
+![Preview-Screens](https://github.com/devWeslei/To-Do-List/blob/main/assets%20to-do%20list/demo.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About this Project
+a Flutter project that does real-time currency conversion.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# To-Do-List" 
+## Functionalities
+-The APP includes API with Json to show updated currency value.
